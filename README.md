@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wwtcly518
+- 👀 I’m interested in JavaScript
+- I'm a abecedarian
